@@ -1,5 +1,5 @@
 {
-  "name": "@shapeable/gatsby-plugin-image",
+  "name": "gatsby-plugin-image",
   "version": "1.15.0",
   "scripts": {
     "build": "npm-run-all -s clean -p build:*",
